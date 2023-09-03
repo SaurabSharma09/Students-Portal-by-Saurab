@@ -138,7 +138,7 @@
 </div>
 
 <div class="centered">
-    <p class="outro">Feel free to get in touch with us for inquiries or feedback. Thank you for contributing to our Student Portal Project!</p>
+    <p class="outro">Feel free to get in touch with us for inquiries or feedback. Thank you for contributing to our Student Portal Project!📑🔖</p>
 </div>
 
 </body>
