@@ -12,10 +12,10 @@
 <div id="project-preview" class="section">
   <h2 class="section-title">Project Preview</h2>
   <div class="image-grid"   >
-    <img src="https://github.com/YourUsername/Student-Portal-Project/blob/main/Preview-image%201.png" alt="Preview 1">
-    <img src="https://github.com/YourUsername/Student-Portal-Project/blob/main/Preview-image%202.png" alt="Preview 2">
-    <img src="https://github.com/YourUsername/Student-Portal-Project/blob/main/Preview-image%203.png" alt="Preview 3">
-    <img src="https://github.com/YourUsername/Student-Portal-Project/blob/main/Preview-image%204.png" alt="Preview 4">
+    <img src="https://github.com/SaurabSharma09/Students-Portal-by-Saurab/blob/main/Preview/image%20(1).png" alt="Preview 1">
+    <img src="https://github.com/SaurabSharma09/Students-Portal-by-Saurab/blob/main/Preview/image.png" alt="Preview 2">
+    <img src="https://github.com/SaurabSharma09/Students-Portal-by-Saurab/blob/main/Preview/image%20(3).png" alt="Preview 3">
+    <img src="https://github.com/SaurabSharma09/Students-Portal-by-Saurab/blob/main/Preview/image%20(4).png" alt="Preview 4">
   </div>
 </div>
 
