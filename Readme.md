@@ -89,7 +89,7 @@
         <h3 class="subsection-title">Installation</h3>
         <ol>
             <li>Clone the repository:</li>
-            <pre><code>git clone https://github.com/yourusername/student-portal-project.git</code></pre>
+            <pre><code>git clone https://github.com/SaurabSharma09/Students-Portal-by-Saurab</code></pre>
             <li>Set up your web server and database.</li>
             <li>Configure the database connection in the application settings.</li>
             <li>Start the web server.</li>
